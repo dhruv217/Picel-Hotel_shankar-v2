@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "pixel-imran.ino",
+    "port": "COM1"
+}
